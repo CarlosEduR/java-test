@@ -11,5 +11,5 @@ Para rodar o projeto será necessário ter o Java 8 e Apache Maven instalados.
 Para rodar o projeto juntamente com os testes:
 
 ```
-mvn compile exec:java -Dexec.mainClass=br.com.sysmanager.Main
+mvn install exec:java
 ```
